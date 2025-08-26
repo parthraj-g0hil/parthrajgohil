@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parthraj</h1>
-<h3 align="center">☁️ Cloud Engineer | 🚀 DevOps Enthusiast | 🐧 Linux & AWS Learner</h3>
+<h3 align="center">☁️ Cloud Engineer | 🚀 DevOps Enthusiast | 🐧 Linux & AWS </h3>
 
 ---
 
