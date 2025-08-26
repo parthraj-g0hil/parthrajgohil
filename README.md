@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Parthraj</h1>
-<h3 align="center">☁️ Cloud Engineer | 🚀 DevOps Enthusiast | 🐧 Linux & AWS </h3>
+<!-- Animated Intro -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Parthraj;☁️+Cloud+Engineer;🚀+DevOps+Enthusiast;🐧+Linux+%26+AWS+Learner" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
 
@@ -7,8 +11,8 @@
 - 🌱 Currently learning **Kubernetes & Cloud-Native Tools**
 - 💡 Exploring **DevOps Automation & Infrastructure as Code**
 - ✍️ Writing blogs on **Linux, Cloud, and DevOps**  
-- 🌍 Visit my portfolio → [**parthraj.cloud**](https://parthraj.cloud)
-- 📝 Blogs on Medium → [**Medium Blog**](https://parth-raj.medium.com/)
+- 🌍 Portfolio → [**parthraj.cloud**](https://parthraj.cloud)
+- 📝 Medium → [**Blog**](https://parth-raj.medium.com/)
 
 ---
 
@@ -22,6 +26,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -40,6 +45,13 @@
 ### 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=parthraj-g0hil&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthraj-g0hil&theme=radical" />
 </p>
 
 ---
